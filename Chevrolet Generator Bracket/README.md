@@ -5,7 +5,7 @@ alternator a mounting bracket is needed.
 
 Here are the files needed, bracket + "ears" to weld on.
 
-Cad files to feed into SheetCam or likewise so that it can be cut by Plasma.
+Cad files to feed into SheetCam or likewise so that it can be cut by plasma.
 
 New and improved
 ![Plasma](alternator_mount.jpg)
