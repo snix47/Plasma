@@ -8,7 +8,7 @@ Here are the files needed, bracket + "ears" to weld on.
 Cad files to feed into SheetCam or likewise so that it can be cut by Plasma.
 
 New and improved
-![Plasma](alternator_mounte.jpg)
+![Plasma](alternator_mount.jpg)
 ![Plasma](alternator_mounted.jpg)
 
 ![Plasma](alternator_bracket.png)
