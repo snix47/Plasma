@@ -9,6 +9,7 @@ Cad files to feed into SheetCam or likewise so that it can be cut by plasma.
 
 New and improved
 ![Plasma](alternator_mount.jpg)
+![Plasma](alternator_mount.2.jpg)
 ![Plasma](alternator_mounted.jpg)
 
 ![Plasma](alternator_bracket.png)
